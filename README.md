@@ -1,0 +1,1 @@
+# ScriptKid606.js
