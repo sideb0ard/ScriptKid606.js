@@ -1,0 +1,27 @@
+{
+  "name": "scriptkid606",
+  "version": "1.0.0",
+  "description": "3d audio platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sideb0ard/ScriptKid606.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sideb0ard/ScriptKid606.js/issues"
+  },
+  "homepage": "https://github.com/sideb0ard/ScriptKid606.js#readme",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.140.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
