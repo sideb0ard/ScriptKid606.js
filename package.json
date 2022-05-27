@@ -18,7 +18,8 @@
   "homepage": "https://github.com/sideb0ard/ScriptKid606.js#readme",
   "dependencies": {
     "dat.gui": "^0.7.9",
-    "three": "^0.140.2"
+    "three": "^0.140.2",
+    "three-trackballcontrols": "^0.9.0"
   },
   "devDependencies": {
     "parcel": "^2.5.0",
